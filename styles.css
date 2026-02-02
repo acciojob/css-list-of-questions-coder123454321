@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.questions{
+	background-color:#f8fffe;
+	height:50px;
+	margin-top20px;
+	padding:15px;
+	max-width600px;
+	border-left:8px solid green;
+}
